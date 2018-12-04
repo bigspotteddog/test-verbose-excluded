@@ -13,7 +13,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>3.2.3.RELEASE</version>
+      <version>4.0.0.M3</version>
     </dependency>
     
     <dependency>
