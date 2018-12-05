@@ -9,13 +9,11 @@
   <version>0.9.0-SNAPSHOT</version>
 
   <dependencies>
-
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
       <version>3.2.3.RELEASE</version>
     </dependency>
-<!--           
     <dependency>
       <groupId>org.springframework.amqp</groupId>
       <artifactId>spring-amqp</artifactId>
@@ -33,7 +31,6 @@
       <artifactId>httpclient</artifactId>
       <version>4.3</version>
     </dependency>
--->
   </dependencies>
          
 </project>
